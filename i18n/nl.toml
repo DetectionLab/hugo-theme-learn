@@ -24,6 +24,3 @@ other = "Snelkoppelingen"
 
 [Expand-title]
 other = "Lees meer..."
-
-[BinaryPrefix-kilobyte]
-other = "kb"

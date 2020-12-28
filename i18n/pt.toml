@@ -24,6 +24,3 @@ other = "Mais"
 
 [Expand-title]
 other = "Expandir..."
-
-[BinaryPrefix-kilobyte]
-other = "kb"

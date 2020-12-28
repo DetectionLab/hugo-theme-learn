@@ -24,6 +24,3 @@ other = "Еще"
 
 [Expand-title]
 other = "Развернуть..."
-
-[BinaryPrefix-kilobyte]
-other = "килобайт"
